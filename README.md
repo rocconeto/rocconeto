@@ -1,21 +1,15 @@
 <h1>
   👋🏼Welcome, my name is Daniel
 <h1/>
-  
-## 💡Interests 
-- AI
-- Linux
-- Pentesting
-- Servers
-- Python
-- Python related frameworks
 
 ## 🪓Working on
 - Raspberry + Python
 
 ## 🌱Studying
 - Developing programming my skills with books and courses
-- Improving my English through lots of practice
+- Studying to obtain a C1 English level in the near future.
+- AWS
+- Pentesting with Kali and Parrot
 
 ## 🛡️Competences
 - 🐍 Python
