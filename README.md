@@ -1,4 +1,4 @@
-<h1> My name is Daniel and here's a little bit about me</h1>
+<h1> Welcome, my name is Daniel</h1>
 
 ## 💡Interests 
 - AI
@@ -23,6 +23,7 @@
 
 ## 🛡️Strengths
 - 🐍 Python
+- </> HTML
 - 🍇 Raspberry
 - 🐧 Debian-based Linux distributions
 
