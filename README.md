@@ -38,7 +38,8 @@
 </a>
 
 ## 💬Get in touch
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Daniel's LinkedIn" title="Daniel's LinkedIn"/>](https://www.linkedin.com/in/daniel-atanasov-angelov-703a16217/)
+- [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Daniel's LinkedIn" title="Daniel's LinkedIn"/>](https://www.linkedin.com/in/daniel-atanasov-angelov-703a16217/)
+- I'm Varmilo#7270 in Discord! 
 
 
 
