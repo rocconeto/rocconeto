@@ -1,6 +1,6 @@
 <h1>
   👋🏼Welcome, my name is Daniel
-  <br/>
+
   <h3>📍Spain<h3/>
 </h1>
   
