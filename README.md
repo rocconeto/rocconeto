@@ -21,17 +21,22 @@
 
 <br/>
 
-## 🛡️Strengths
+## 🛡️Competences
 - 🐍 Python
 - </> HTML
 - 🍇 Raspberry
-- 🐧 Debian-based Linux distributions
-
-<br/>
-
-## 🧠Other competences 
+- 🐧 Debian-based Linux distributions 
 - ⌨️ I'm a good typist. Able to reach 140WPM (Programmers average 85WPM)
 - 🗓️ Constant
+
+## My stats
+<div style="width:100px;  height: 100px; background: red; position: relative;"></div>
+<a href="https://github.com/VarmiloVA/VarmiloVA">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarmiloVA=scss,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/VarmiloVA/VarmiloVA">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VarmiloVA&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GitHub Stats" />
+</a>
 
 
 
