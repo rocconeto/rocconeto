@@ -1,4 +1,4 @@
-<h1>👋🏼Welcome, my name is Daniel<h1/>
+<h1>👋🏼Welcome, my name is Daniel</h1>
   
 ## 🪓Working on
 - Raspberry + Python
@@ -18,8 +18,8 @@
 - 🗓️ Constant
   
 ## 💬Get in touch
-- [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="25em" align="center" alt="Daniel's LinkedIn" title="Daniel's LinkedIn"/>](https://www.linkedin.com/in/daniel-atanasov-angelov-703a16217/)
-- 🌐Varmilo#7270 in Discord! 
+- [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="23em" align="center" alt="Daniel's LinkedIn" title="Daniel's LinkedIn"/>](https://www.linkedin.com/in/daniel-atanasov-angelov-703a16217/)
+- 🌐 Varmilo#7270 in Discord! 
 
 ## 📊My stats
 <div style="width:100px;  height: 60px; background: red; position: relative;"></div>
