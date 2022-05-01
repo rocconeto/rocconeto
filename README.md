@@ -8,17 +8,21 @@
 - Python
 - Python related frameworks
 
+
 ## 🪓Working in
 - Raspberry + Python
+
 
 ## 🌱Studying
 - Developing programming my skills with books and courses
 - Improving my English through lots of practice
 
+
 ## 🛡️Strengths
 - 🐍 Python
 - 🍇 Raspberry
 - 🐧 Debian-based Linux distributions
+
 
 ## 🧠Other competences 
 - ⌨️ I'm a good typist. Able to reach 140WPM (Programmers average 85WPM)
