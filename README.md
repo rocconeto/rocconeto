@@ -16,6 +16,11 @@ First things first, my name is Daniel and here's a little bit about me:
 🌱 Developing programming my skills with books and courses
 🌱 Improving my English through lots of practice
 
+- Strengths
+🐍 Python
+🍇 Raspberry
+🐧 Debian-based Linux distributions
+
 - Other skills
 ⌨️ I'm a good typist. Able to reach 140WPM (Programmers average 85WPM)
 
