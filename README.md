@@ -1,7 +1,7 @@
 ### Welcome to my GitHub profile!
 First things first, my name is Daniel and here's a little bit about me:
 
-#Interests
+- Interests
 💡 AI
 💡 Linux
 💡 Pentesting
@@ -9,14 +9,14 @@ First things first, my name is Daniel and here's a little bit about me:
 💡 Python
 💡 Python related frameworks
 
-#Working in
+- Working in
 🪓 Raspberry + Python
 
-#Studying
+- Studying
 🌱 Developing programming my skills with books and courses
 🌱 Improving my English through lots of practice
 
-#Other skills
+- Other skills
 ⌨️ I'm a good typist. Able to reach 140WPM (Programmers average 85WPM)
 
 
