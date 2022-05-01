@@ -1,6 +1,8 @@
-<h1>👋🏼Welcome, my name is Daniel</h1>
-<h2>📍Spain<h2/>
-<br/>
+<h1>
+  👋🏼Welcome, my name is Daniel
+  <br/>
+  <h3>📍Spain<h3/>
+</h1>
   
 ## 💡Interests 
 - AI
