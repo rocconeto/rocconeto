@@ -1,4 +1,4 @@
-<h1> Welcome, my name is Daniel</h1>
+<h1>👋🏼Welcome, my name is Daniel</h1>
 
 ## 💡Interests 
 - AI
