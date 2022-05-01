@@ -1,8 +1,10 @@
 <h1>
   👋🏼Welcome, my name is Daniel
+<h1/>
+<h2>
+  📍Spain
+<h2/>
 
-  <h3>📍Spain<h3/>
-</h1>
   
 ## 💡Interests 
 - AI
@@ -43,7 +45,7 @@
 
 ## 💬Get in touch
 - [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="30em" align="center" alt="Daniel's LinkedIn" title="Daniel's LinkedIn"/>](https://www.linkedin.com/in/daniel-atanasov-angelov-703a16217/)
-- 🌐I'm Varmilo#7270 in Discord! 
+- 🌐Varmilo#7270 in Discord! 
 
 
 
