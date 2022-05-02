@@ -14,7 +14,7 @@
 - </> HTML
 - 🍇 Raspberry
 - 🐧 Debian-based Linux distributions 
-- ⌨️ I'm a good typist. Able to reach 140WPM (Programmers average 85WPM)
+- ⌨️ Good typist, able to reach 140WPM (Programmers average 85WPM)
 - 🗓️ Constant
   
 ## 💬Get in touch
