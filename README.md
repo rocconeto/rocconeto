@@ -19,7 +19,7 @@
   
 ## 💬Get in touch
 - <p>
-  <a href="https://www.linkedin.com/in/marine-s-b76619193/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/marine-s-b76619193/" target="_blank"><img alt="LinkedIn" src="https://www.linkedin.com/in/daniel-atanasov-angelov-703a16217/&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 - 🌐 Varmilo#7270 in Discord! 
