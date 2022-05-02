@@ -4,7 +4,7 @@
 - Raspberry + Python
 
 ## 🌱Studying
-- Developing programming my skills with books and courses
+- Improving my programming skills through books and courses
 - Studying to obtain a C1 English level in the near future.
 - AWS
 - White hat hacking and pentesting
