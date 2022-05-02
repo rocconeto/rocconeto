@@ -23,6 +23,7 @@
 </p>
 
 - 🌐 Varmilo#7270 in Discord! 
+- 📧 varmilo.blue@protonmail.com
 
 ## 📊My stats
 <div style="width:100px;  height: 60px; background: red; position: relative;"></div>
