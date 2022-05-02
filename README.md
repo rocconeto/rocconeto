@@ -7,7 +7,7 @@
 - Developing programming my skills with books and courses
 - Studying to obtain a C1 English level in the near future.
 - AWS
-- White hat Hacking and Pentesting
+- White hat hacking and Pentesting
 
 ## 🛡️Competences
 - 🐍 Python
