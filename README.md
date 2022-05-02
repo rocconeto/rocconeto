@@ -18,7 +18,9 @@
 - 🗓️ Constant
   
 ## 💬Get in touch
-- [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="23em" align="center" alt="Daniel's LinkedIn" title="Daniel's LinkedIn"/>](https://www.linkedin.com/in/daniel-atanasov-angelov-703a16217/)
+- <p>
+  <a href="https://www.linkedin.com/in/marine-s-b76619193/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 - 🌐 Varmilo#7270 in Discord! 
 
 ## 📊My stats
