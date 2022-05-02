@@ -7,7 +7,7 @@
 - Developing programming my skills with books and courses
 - Studying to obtain a C1 English level in the near future.
 - AWS
-- Pentesting with Kali and Parrot
+- White Hat Hacking and Pentesting
 
 ## 🛡️Competences
 - 🐍 Python
