@@ -22,8 +22,6 @@
   <a href="https://www.linkedin.com/in/daniel-atanasov-angelov-703a16217/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-- 📧 varmilo.blue@protonmail.com
-<br/>
 - 🎙️ <b>Discord:</b> ~$ whoami | Varmilo#7270
 
 ## 📊My stats
