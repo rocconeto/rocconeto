@@ -23,6 +23,8 @@
 </p>
 
 - 📧 varmilo.blue@protonmail.com
+<br/>
+- 🎙️ <b>Discord:</b> ~$ whoami | Varmilo#7270
 
 ## 📊My stats
 <div style="width:100px;  height: 60px; background: red; position: relative;"></div>
