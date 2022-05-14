@@ -4,10 +4,9 @@
 - Raspberry + Python
 
 ## 🌱Studying
-- Improving my programming skills through books and courses
-- Studying to obtain a C1 English level in the near future.
+- PostgreeSQL
+- Studying to obtain a C1 English level in the near future
 - AWS
-- White hat hacking and pentesting
 
 ## 🛡️Competences
 - 🐍 Python
