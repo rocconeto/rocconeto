@@ -4,12 +4,12 @@
 - Raspberry + Python
 
 ## 🌱Studying
-- PostgreeSQL
 - Studying to obtain a C1 English level in the near future
 - AWS
 
 ## 🛡️Competences
 - 🐍 Python
+- 🐘 PostgreSQL
 - </> HTML
 - 🍇 Raspberry
 - 🐧 Debian-based Linux distributions 
