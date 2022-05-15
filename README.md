@@ -1,4 +1,4 @@
-<h1>👋🏼Welcome, my name is Daniel</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00D13B&width=750&lines=Welcome,+my+name+is+Daniel+A.K.A.+Varmilo)](https://git.io/typing-svg)
   
 ## 🪓Currently working on
 - PostgreSQL + Python
