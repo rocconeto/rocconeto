@@ -28,10 +28,6 @@
  <img src="https://activity-graph.herokuapp.com/graph?username=VarmiloVA&line=00d13b&theme=react-dark&area=true&hide_border=true" width="100%">
 </a>
 </p>
-<div style="width:100px;  height: 60px; background: red; position: relative;"></div>
-<a href="https://github.com/VarmiloVA/VarmiloVA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarmiloVA&hide=scss,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/VarmiloVA/VarmiloVA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VarmiloVA&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GitHub Stats" />
-</a>
+<h3 align="center">
+	<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=VarmiloVA&theme=blue-green&hide_border=true&background=#0d1117&currStreakNum=00DD24">
+</h3>
