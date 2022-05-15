@@ -14,7 +14,6 @@
 - 🍇 Raspberry
 - 🐧 Debian-based Linux distributions 
 - ⌨️ Good typist, able to reach 140WPM (Programmers average 85WPM)
-- 🗓️ Constant
   
 ## 💬Get in touch
 - <p>
