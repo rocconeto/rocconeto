@@ -1,7 +1,7 @@
 <h1>👋🏼Welcome, my name is Daniel</h1>
   
 ## 🪓Currently working on
-- Raspberry + Python
+- PostgreSQL + Python
 
 ## 🌱Studying
 - Studying to obtain a C1 English level in the near future
