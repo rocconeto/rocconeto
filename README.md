@@ -13,7 +13,7 @@
 - </> HTML
 - 🍇 Raspberry
 - 🐧 Debian-based Linux distributions 
-- ⌨️ Good typist, able to reach 140WPM (Programmers average 85WPM)
+- ⌨️ Good typist, able to reach 140WPM
   
 ## 💬Get in touch
 - <p>
