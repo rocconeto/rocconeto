@@ -6,7 +6,7 @@
 ## 🌱Studying
 - Studying to obtain a C1 English level in the near future
 - Django & SQL
-- AWS 
+- AWS  
 
 ## 🛡️Competences
 - 🐍 Python
