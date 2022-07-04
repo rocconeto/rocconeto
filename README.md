@@ -10,7 +10,7 @@
 
 ## 🛡️Competences
 - 🐍 Python
-- 🐘 PostgreSQL & 🐬MySQL
+- 🐬MySQL
 - </> HTML
 - 🍇 Raspberry
 - 🐧 Debian-based Linux distributions 
