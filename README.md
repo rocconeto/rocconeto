@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00D13B&width=750&lines=Hi,+my+name+is+Daniel+(Aka.+Varmilo))](https://git.io/typing-svg)
-  
+- <b>A word of warning: I am currently working on the repository called Nutritional Values project by Varmilo and its commits are not being included in my code frequency statistics.</b>
 ## 🪓Currently working on 
 - PostgreSQL + Python
 
