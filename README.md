@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00D13B&width=750&lines=Hi,+my+name+is+Daniel+(Aka.+Varmilo))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00D13B&width=750&lines=I've+returned+from+holidays,+taking+up+projects)](https://git.io/typing-svg)
 ## 🪓Currently working on 
 - PostgreSQL + Python
 
