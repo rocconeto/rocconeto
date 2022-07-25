@@ -1,12 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00D13B&width=750&lines=Hi,+my+name+is+Daniel+(Aka.+Varmilo))](https://git.io/typing-svg)
-## 🪓Currently working on 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4084e3&width=750&lines=🪓Currently+working+on:)](https://git.io/typing-svg)
+
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-## 🌱 Studying
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4084e3&width=750&lines=🌱Studying:)](https://git.io/typing-svg)
+
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-## 🛡️Competences
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4084e3&width=750&lines=🛡️Competences:)](https://git.io/typing-svg)
+
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
@@ -17,15 +19,11 @@
 ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
     
-  
 
 
-## 💬Get in touch
-<p>
   <a href="https://www.linkedin.com/in/daniel-atanasov-angelov-703a16217/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
 
-<h2 align='left'>📊My stats</i></h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4084e3&width=750&lines=📈My+stats:)](https://git.io/typing-svg)
 <p align="center">
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
  <img src="https://activity-graph.herokuapp.com/graph?username=VarmiloVA&line=00d13b&dracula&count_private=true" width="100%">
