@@ -26,7 +26,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4084e3&width=750&lines=📈My+stats:)](https://git.io/typing-svg)
 <p align="center">
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
- <img src="https://activity-graph.herokuapp.com/graph?username=VarmiloVA&line=00d13b&dracula&count_private=true" width="100%">
+ <img src="https://activity-graph.herokuapp.com/graph?username=VarmiloVA&line=00d13b&count_private=true" width="100%">
 </a>
 </p>
 <h3 align="center">
