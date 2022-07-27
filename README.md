@@ -23,16 +23,11 @@
     
 ## ✉️Get in touch
 
-  <a href="https://www.linkedin.com/in/daniel-atanasov-angelov-703a16217/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ <a href="https://www.linkedin.com/in/daniel-atanasov-angelov-703a16217/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-## 📈My stats
+## 📈Stats
 <p align="center">
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
- <img src="https://activity-graph.herokuapp.com/graph?username=VarmiloVA&line=00d13b&count_private=true" width="100%">
-</a>
-</p>
-<h3 align="center">
 	<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=VarmiloVA&theme=dracula&count_private=true">
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=VarmiloVA&show_icons=true&locale=en&theme=dracula&count_private=true" alt="VarmiloVA" />
-</h3>
+</p>
 
