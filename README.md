@@ -27,8 +27,7 @@
  <a href="https://www.linkedin.com/in/daniel-atanasov-angelov-703a16217/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ## 📈Stats
-<p align="center">
-	<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=VarmiloVA&theme=dracula&count_private=true">
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=VarmiloVA&show_icons=true&locale=en&theme=dracula&count_private=true" alt="VarmiloVA" />
-</p>
+
+ <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=VarmiloVA&theme=dracula&count_private=true">    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarmiloVA&layout=compact&theme=dracula" alt="VarmiloVA" /> 
+
 
