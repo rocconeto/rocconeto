@@ -27,7 +27,6 @@
 ## 📈Stats
  <div align="center">
  <img src="http://github-readme-streak-stats.herokuapp.com?user=VarmiloVA&theme=dracula&count_private=true">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarmiloVA&layout=compact&theme=dracula" alt="VarmiloVA" />
  </div>
  <div align="center">
 <img src="https://komarev.com/ghpvc/?username=VarmiloVA&style=for-the-badge&color=blue" alt="VarmiloVA"/>
