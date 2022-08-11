@@ -1,6 +1,7 @@
 ## 🪓Currently working with   
 
 <a href="https://www.python.org">![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</a>
+<a href="https://docs.djangoproject.com/en/4.1/">![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)</a>
 
 ## 🌱To study in the near future
 
