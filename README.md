@@ -31,5 +31,5 @@
  <div align="center">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=VarmiloVA&theme=dracula&count_private=true">
     <br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarmiloVA&layout=compact&theme=dracula"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarmiloVA&theme=dracula"/>
  </div>
