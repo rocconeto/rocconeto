@@ -27,7 +27,11 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-## 📈Contributions
- <div align="center">
+## Stats
+ <div>
     <img src="http://github-readme-streak-stats.herokuapp.com?user=VarmiloVA&theme=dracula&count_private=true">
  </div>
+ <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarmiloVA&theme=dracula)](https://github.com/anuraghazra/github-readme-stats?      theme=dracula">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarmiloVA&layout=compact&theme=dracula"/>
+</div>
