@@ -28,10 +28,8 @@
 </a>
 
 ## Stats
- <div>
+ <div align="center">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=VarmiloVA&theme=dracula&count_private=true">
- </div>
- <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarmiloVA&theme=dracula)](https://github.com/anuraghazra/github-readme-stats?      theme=dracula">
+    <br>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarmiloVA&layout=compact&theme=dracula"/>
-</div>
+ </div>
