@@ -19,6 +19,7 @@
 <a href="https://www.mysql.com/">![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)</a>
 <a href="https://neovim.io/">![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)</a>
 <a href="https://www.debian.org/index.es.html">![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)</a>
+<a href="https://https://www.raspberrypi.org/">![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)</a>
 <a href="https://www.postgresql.org/">![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)</a>
     
 ## ✉️Get in touch
