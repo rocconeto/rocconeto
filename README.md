@@ -1,4 +1,4 @@
-<h2 align="center">🪓Currently learning</h2> 
+<h2 align="center">🪓Currently Working with/Learning</h2> 
 <p align="center">
 <a target="_blank" href="https://www.python.org"><img href="https://www.python.org" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></a>
 <a target="_blank" href="https://docs.djangoproject.com/en/4.1/"><img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" /></a>
