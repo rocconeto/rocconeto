@@ -1,4 +1,4 @@
-## 🪓Currently working with   
+## 🪓Currently learning 
 
 <a href="https://www.python.org">![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</a>
 <a href="https://docs.djangoproject.com/en/4.1/">![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)</a>
@@ -6,13 +6,17 @@
 <a href="https://www.html.com">![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)</a>
 <a href="https://www.w3schools.com/css/">![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)</a>
 
-## 🌱To study in the near future
+
+## 🌱To learn in the near future
 
 <a href="https://flask.palletsprojects.com/en/2.2.x/">![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)</a>
+<a href="https://www.mongodb.com/">![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)</a>
+<a href="https://firebase.google.com/?gclid=Cj0KCQjwgO2XBhCaARIsANrW2X3OURs5ZnR6USAJkNMuLzaJlfDzAASVvQxlKRDnLEHsgwZcTSHknLMaAl3nEALw_wcB&gclsrc=aw.ds">![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)</a>
+<a href="https://httpd.apache.org/">![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)</a>
 
 ## 🛡️Competences
 
-<a href="https://www.python.org">![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</a>
+<a href="https://www.python.org">![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)<a href="https://firebase.google.com/?gclid=Cj0KCQjwgO2XBhCaARIsANrW2X3OURs5ZnR6USAJkNMuLzaJlfDzAASVvQxlKRDnLEHsgwZcTSHknLMaAl3nEALw_wcB&gclsrc=aw.ds"></a>
 <a href="https://code.visualstudio.com/">![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)</a>
 <a href="https://git-scm.com/">![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)</a>
 <a href="https://www.github.com">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
