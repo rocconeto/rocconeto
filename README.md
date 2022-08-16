@@ -31,7 +31,7 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-## Stats
+## 📊Stats
  <div align="center">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=VarmiloVA&theme=dracula&count_private=true">
     <br>
