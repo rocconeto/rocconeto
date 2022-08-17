@@ -14,7 +14,7 @@
 </p>
 
 <h2 align="center">🛡️Competences</h2> 
-    <p align="center">
+<p align="center">
 <a target="_blank" href="https://www.python.org"><img href="https://www.python.org" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></a>
 <a target="_blank" href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
 <a target="_blank" href="https://git-scm.com/"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></a>
@@ -24,8 +24,7 @@
 <a target="_blank" href="https://neovim.io/"><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/></a>
 <a target="_blank" href="https://www.debian.org/index.es.html"><img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white"/></a>
 <a target="_blank" href="https://https://www.raspberrypi.org/"><img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/></a>
-
-    </p>
+</p>
 
 <h2 align="center">📊Stats<h2>
  <p align="center">
@@ -33,3 +32,7 @@
     <br>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarmiloVA&theme=dracula" />
  </p>
+ 
+<h4 align="center">Get in touch</h4>
+
+                                                               Varmilo#7270 
