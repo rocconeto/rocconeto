@@ -33,6 +33,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarmiloVA&theme=dracula" />
  </p>
  
-<h4 align="center">📫Get in touch</h4>
+<h2 align="center">📫Get in touch</h2>
 
                                                             Varmilo#7270 
