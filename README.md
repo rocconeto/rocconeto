@@ -8,10 +8,9 @@
 
 <h2 align="center">🌱To learn in the near future</h2> 
 <p align="center">
-<a target="_blank" href="https://flask.palletsprojects.com/en/2.2.x/"><img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" /></a>
-<a target="_blank" href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
-<a target="_blank" href="https://firebase.google.com/?gclid=Cj0KCQjwgO2XBhCaARIsANrW2X3OURs5ZnR6USAJkNMuLzaJlfDzAASVvQxlKRDnLEHsgwZcTSHknLMaAl3nEALw_wcB&gclsrc=aw.ds"><img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white2" /></a>
+<a target="_blank" href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
 <a target="_blank" href="https://httpd.apache.org/"><img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" /></a>
+<a target="_blank" href="https://aws.amazon.com"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
 </p>
 
 <h2 align="center">🛡️Competences</h2> 
