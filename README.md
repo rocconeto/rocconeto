@@ -1,14 +1,13 @@
 <h2 align="center">🪓Currently Working with/Learning</h2> 
 <p align="center">
-<a target="_blank" href="https://www.python.org"><img href="https://www.python.org" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></a>
 <a target="_blank" href="https://docs.djangoproject.com/en/4.1/"><img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" /></a>
+<a target="_blank" href="https://www.heroku.com/"><img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
 <a target="_blank" href="https://www.html.com"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></a>
 <a target="_blank" href="https://www.w3schools.com/css/"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></a>
 </p>
 
 <h2 align="center">🌱To learn in the near future</h2> 
 <p align="center">
-<a target="_blank" href="https://www.heroku.com/"><img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
 <a target="_blank" href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
 <a target="_blank" href="https://httpd.apache.org/"><img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" /></a>
 <a target="_blank" href="https://aws.amazon.com"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
