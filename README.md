@@ -1,5 +1,6 @@
 <h2 align="center">🪓Currently Working with/Learning</h2> 
 <p align="center">
+<a target="_blank" href="https://www.python.org"><img href="https://www.python.org" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></a>
 <a target="_blank" href="https://docs.djangoproject.com/en/4.1/"><img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" /></a>
 <a target="_blank" href="https://www.heroku.com/"><img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
 <a target="_blank" href="https://www.html.com"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></a>
