@@ -1,4 +1,4 @@
-<h2 align="center">🪓Currently Working with/Learning</h2> 
+<h2 align="center">🪓Currently working with/learning</h2> 
 <p align="center">
 <a target="_blank" href="https://www.python.org"><img href="https://www.python.org" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></a>
 <a target="_blank" href="https://docs.djangoproject.com/en/4.1/"><img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" /></a>
@@ -12,6 +12,7 @@
 <a target="_blank" href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
 <a target="_blank" href="https://httpd.apache.org/"><img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" /></a>
 <a target="_blank" href="https://aws.amazon.com"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
+<a target="_blank" href="https://www.docker.com/"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /></a>
 </p>
 
 <h2 align="center">🛡️Competences</h2> 
@@ -26,6 +27,7 @@
 <a target="_blank" href="https://neovim.io/"><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/></a>
 <a target="_blank" href="https://www.debian.org/index.es.html"><img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white"/></a>
 <a target="_blank" href="https://https://www.raspberrypi.org/"><img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/></a>
+<a target="_blank" href="https://www.w3schools.com/css/"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></a>
 </p>
 
 <h2 align="center">📊Stats<h2>
