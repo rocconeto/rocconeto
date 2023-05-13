@@ -32,6 +32,10 @@
 <br>
 <a target="_blank"><img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" /></a>
 <a target="_blank"><img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" /></a>
+<br>
+<a target="_blank" href="https://figma.com"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /></a>
+<a target="_blank" href="https://inkscape.org"><img src="https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13" /></a>
+<a target="_blank" href="https://sketchup.com"><img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black" /></a>
 </p>
 
 <h2 align="center">📊Stats<h2>
