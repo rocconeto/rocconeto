@@ -31,8 +31,10 @@
 <br>
 <a target="_blank"><img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" /></a>
 <a target="_blank"><img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" /></a>
-<a target="_blank" href="https://figma.com"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /></a>
+<a target="_blank" href="https://plotly.com"><img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" /></a>
+<a target="_blank" href="matplotlib.org"><img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" /></a>
 <br>
+<a target="_blank" href="https://figma.com"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /></a>
 <a target="_blank" href="https://inkscape.org"><img src="https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13" /></a>
 <a target="_blank" href="https://sketchup.com"><img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black" /></a>
 </p>
@@ -41,7 +43,7 @@
  <p align="center">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=VarmiloVA&theme=dracula&count_private=true" />
     <br>
-    <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarmiloVA&theme=dracula" />-->
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarmiloVA&theme=dracula" />
  </p>
  
 <h2 align="center">📫Get in touch</h2>
