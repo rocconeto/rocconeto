@@ -43,10 +43,3 @@
 <a target="_blank" href="https://jupyter.org"><img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" /></a>
 <a target="_blank" href="https://docs.conda.io"><img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" /></a>
 </p>
-
-<h2 align="center">📊Stats<h2>
- <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocconeto&theme=dracula" />
- </p>
-
-
